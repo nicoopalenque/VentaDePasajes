@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TipoServicio>
+  <Tipo Nombre="Cama Suite"/> 
+  <Tipo Nombre="Cama Vip" />
+  <Tipo Nombre="Cama" />
+  <Tipo Nombre="Semi-cama" />
+  <Tipo Nombre="Normal" />
+</TipoServicio>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="Vistas.vtnDatosAutobus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:DATOS="clr-namespace:ClasesBase;assembly=ClasesBase"
+        Title="vtnDatosAutobus" Height="300" Width="300">
+    
+    <Window.Resources>
+        <ObjectDataProvider x:Key="Autobuses" ObjectType="{x:Type DATOS:TrabajarAutobus}" MethodName="TraerAutobuses" />
+    </Window.Resources>
+    
+    <Grid>
+        <ListView ItemsSource="{Binding Source={StaticResource ResourceKey=Autobuses}}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Código" DisplayMemberBinding="{Binding Path=Aut_Codigo}"/>
+                    <GridViewColumn Header="Capacidad" DisplayMemberBinding="{Binding Path=Aut_Capacidad}"/>
+                    <GridViewColumn Header="Tipo de Servicio" DisplayMemberBinding="{Binding Path=Aut_TipoServicio}"/>
+                    <GridViewColumn Header="Matrícula" DisplayMemberBinding="{Binding Path=Aut_Matricula}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

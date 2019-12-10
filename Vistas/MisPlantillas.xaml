@@ -1,0 +1,393 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <ControlTemplate x:Key="btnTemplateAceptar" TargetType="Button">
+        <Border x:Name="btnAceptar" Height="25" Width="75" Background="Green" CornerRadius="10, 10, 10, 10">
+            <TextBlock FontFamily="Berlin Sans FB" FontSize="14" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Source="/assets/accept_32.png" Height="10" Width="10" VerticalAlignment="Center"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Content="Aceptar" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Background" Value="DodgerBlue" TargetName="btnAceptar"/>
+                <Setter Property="Height" Value="30" TargetName="btnAceptar"/>
+                <Setter Property="Width" Value="80" TargetName="btnAceptar"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+    
+    <ControlTemplate x:Key="btnTemplateBuscar" TargetType="Button">
+        <Border x:Name="btnBuscar" Height="25" Width="75" Background="DodgerBlue" CornerRadius="10, 10, 10, 10">
+            <TextBlock FontFamily="Berlin Sans FB" FontSize="14" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Content="Buscar" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Background" Value="DodgerBlue" TargetName="btnBuscar"/>
+                <Setter Property="Height" Value="30" TargetName="btnBuscar"/>
+                <Setter Property="Width" Value="80" TargetName="btnBuscar"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+    
+    <ControlTemplate x:Key="btnTemplateEditar" TargetType="Button">
+        <Border x:Name="btnAceptared" Height="25" Width="75" Background="Green" CornerRadius="10, 10, 10, 10">
+            <TextBlock FontFamily="Berlin Sans FB" FontSize="14" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Source="/assets/save_32.png" Height="10" Width="10" VerticalAlignment="Center"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Content="Guardar" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Background" Value="DodgerBlue" TargetName="btnAceptared"/>
+                <Setter Property="Height" Value="30" TargetName="btnAceptared"/>
+                <Setter Property="Width" Value="80" TargetName="btnAceptared"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateCancelar" TargetType="Button">
+        <Border x:Name="btnCancelar" Height="25" Width="75" Background="Red" CornerRadius="10, 10, 10, 10">
+            <TextBlock FontFamily="Berlin Sans FB" FontSize="14" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Source="/assets/cancel_32.png" Height="10" Width="10" VerticalAlignment="Center"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Content="Cancelar" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Background" Value="Orange" TargetName="btnCancelar"/>
+                <Setter Property="Height" Value="30" TargetName="btnCancelar"/>
+                <Setter Property="Width" Value="80" TargetName="btnCancelar"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateLogin" TargetType="Button" >
+        <Border x:Name="btnLogin" Height="27" Width="120" Background="#FF2281D1" CornerRadius="5,5,5,5">
+            <TextBlock FontFamily="Berlin Sans FB" FontSize="14" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Content="Ingresar" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="Chartreuse" TargetName="btnLogin"/>
+                <Setter Property="Height" Value="32" TargetName="btnLogin"/>
+                <Setter Property="Width" Value="125" TargetName="btnLogin"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateAddUser" TargetType="Button">
+        <Border x:Name="btnAddUser" Height="30" Width="30" Background="Coral" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgUserAdd" Source="assets/userAdd_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnAddUser"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateEditUser" TargetType="Button">
+        <Border x:Name="btnEditUser" Height="30" Width="30" Background="Green" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgUserEdit" Source="assets/userEdit_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnEditUser"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateDeleteUser" TargetType="Button">
+        <Border x:Name="btnEditUser" Height="30" Width="30" Background="DarkCyan" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgUserDelete" Source="assets/userDelete_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnEditUser"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+    
+    <ControlTemplate x:Key="btnTemplateReloadUser" TargetType="Button">
+        <Border x:Name="btnUpdate" Height="30" Width="30" Background="White" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgUserUpdate" Source="assets/update_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnUpdate"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateSearch" TargetType="Button">
+        <Border x:Name="btnSearch" Height="30" Width="30" Background="White" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgUserSearch" Source="assets/search_32.png" Width="25" Height="25" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnSearch"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateFirst" TargetType="Button">
+        <Border x:Name="btnFirst" Height="25" Width="25" Background="Gainsboro" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgFirst" Source="assets/first_32.png" Width="25" Height="25" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnFirst"/>
+                <Setter Property="ToolTip" Value="Ver Primero" />
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateLast" TargetType="Button">
+        <Border x:Name="btnLast" Height="25" Width="25" Background="Gainsboro" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgLast" Source="assets/last_32.png" Width="25" Height="25" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnLast"/>
+                <Setter Property="ToolTip" Value="Ver Último" />
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplatePrevious" TargetType="Button">
+        <Border x:Name="btnPrevious" Height="25" Width="25" Background="Gainsboro" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgPrevious" Source="assets/previous_32.png" Width="25" Height="25" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnPrevious"/>
+                <Setter Property="ToolTip" Value="Ver Anterior" />
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateNext" TargetType="Button">
+        <Border x:Name="btnNext" Height="25" Width="25" Background="Gainsboro" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgNext" Source="assets/next_32.png" Width="25" Height="25" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnNext"/>
+                <Setter Property="ToolTip" Value="Ver Siguiente" />
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateFilter" TargetType="Button">
+        <Border x:Name="btnFilter" Height="25" Width="25" Background="Transparent" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgFilter" Source="assets/filter_32.png" Width="25" Height="25" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnFilter"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateUserList" TargetType="Button">
+        <Border x:Name="btnUserList" Height="30" Width="30" Background="SeaGreen" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image x:Name="imgUserList" Source="assets/userList_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="LightBlue" TargetName="btnUserList"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplatePrint" TargetType="Button">
+        <Border x:Name="btnImprimir" Height="25" Width="75" Background="DodgerBlue" CornerRadius="5, 5, 5, 5">
+            <TextBlock FontFamily="Berlin Sans FB" FontSize="14" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Source="/assets/print_32.png" Height="15" Width="15" VerticalAlignment="Center"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Content="Imprimir" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="Teal" TargetName="btnImprimir"/>
+                <Setter Property="Height" Value="30" TargetName="btnImprimir"/>
+                <Setter Property="Width" Value="80" TargetName="btnImprimir"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplatePreview" TargetType="Button">
+        <Border x:Name="btnPreview" Height="30" Width="30" Background="Transparent" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/document_32.png" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"></Image>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="Gainsboro" TargetName="btnPreview"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateFreeSeat" TargetType="Button">
+        <Border x:Name="btnAsientoLibre" Height="25" Width="25" Background="Green" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/busSeat_32.png" Width="25" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateBusySeat" TargetType="Button">
+        <Border x:Name="btnAsientoOcupado" Height="25" Width="25" Background="Red" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/busSeat_32.png" Width="25" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateSelectedSeat" TargetType="Button">
+        <Border x:Name="btnAsientoSeleccionado" Height="25" Width="25" Background="CornflowerBlue" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/busSeat_32.png" Width="25" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateSeat" TargetType="Button">
+        <Border x:Name="btnAsiento" Background="{TemplateBinding Background}" Height="25" Width="25" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/busSeat_32.png" Width="25" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateSiguiente" TargetType="Button">
+        <Border x:Name="btnSiguiente" Height="30" Width="30" Background="White" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image  Source="assets/nextCircle_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnSiguiente"/>
+                <Setter Property="ToolTip" Value="Siguiente"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateVolver" TargetType="Button">
+        <Border x:Name="btnVolver" Height="30" Width="30" Background="White" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/previousCircle_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnVolver"/>
+                <Setter Property="ToolTip" Value="Volver"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateTicketDelete" TargetType="Button">
+        <Border x:Name="btnDelete" Height="30" Width="30" Background="White" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/ticketDelete_32.png" Width="30" Height="30" VerticalAlignment="Center"></Image>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnDelete"/>
+                <Setter Property="ToolTip" Value="Cancelar Pasaje"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateDelete" TargetType="Button">
+        <Border x:Name="btnEliminar" Background="Transparent" Height="30" Width="30" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/delete_32.png" Width="30" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnEliminar"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateEdit" TargetType="Button">
+        <Border x:Name="btnEditar" Background="Transparent" Height="30" Width="30" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/edit_32.png" Width="30" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnEditar"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="btnTemplateAdd" TargetType="Button">
+        <Border x:Name="btnAgregar" Background="Transparent" Height="30" Width="30" CornerRadius="5,5,5,5">
+            <TextBlock>
+                <Image Source="assets/add_32.png" Width="30" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </TextBlock>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="true">
+                <Setter Property="Background" Value="lightBlue" TargetName="btnAgregar"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+</ResourceDictionary>

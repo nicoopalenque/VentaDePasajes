@@ -1,0 +1,509 @@
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.CopyComplete
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojAssemblyReference.cache
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.cache
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.CoreCompileInputs.cache
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.CopyComplete
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\TP 01\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+C:\Users\Nicolas\Downloads\LPOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Facultad\Facultad\LPOO II\TP 02\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\PruebaAutobus.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\PruebaAutobus.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Facultad\Facultad\LPOO II\Tp 03\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Window1.baml
+C:\Users\Nicolas\Downloads\LPOOII_Grupo01\Vistas\obj\x86\Debug\Window1.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Window1.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Window1.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnVistaPrevia.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnVistaPrevia.g.cs
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.baml
+D:\Facultad\Facultad\LPOO II\Tp 05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnVistaPrevia.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Window1.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnVistaPrevia.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Window1.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\TP05\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\asd\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.baml
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.baml
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.g.cs
+D:\Facultad\Facultad\LPOO II\Tp Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\LoginCU.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTicket.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\App.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAsientos.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnAutobus.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCiudad.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnCliente.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnEmpresa.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnFiltroServicio.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnLogin.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPasaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnPrincipal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnTerminal.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnUsuarios.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\vtnViaje.baml
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos II\TPs\Final\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Facultad\Facultad\LPOO II\Tp Final\TPFinal_Grupo01\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\Facultad\LPOO II\Tp Final\TPFinal_Grupo01\LPOOII_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb

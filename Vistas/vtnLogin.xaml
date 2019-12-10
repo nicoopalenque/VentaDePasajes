@@ -1,0 +1,42 @@
+﻿<Window x:Class="Vistas.vtnLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+       Title="Login" Height="500" Width="350" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" >
+    <Grid>
+
+        <Rectangle Height="461" VerticalAlignment="Top">
+
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2281D1"/>
+                    <GradientStop Color="#FF34268A" Offset="1"/>
+                    <GradientStop Color="#FF33288B" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+
+        </Rectangle>
+        <Button x:Name="btnExit" Width="20" Height="20" VerticalAlignment="Top" Margin="320,10,10,0" BorderBrush="#FF2281D1" Click="CerrarLogin">
+            <Button.OpacityMask>
+                <ImageBrush ImageSource="assets/exit.png"/>
+            </Button.OpacityMask>
+            <Button.Background>
+                <ImageBrush ImageSource="assets/exit.png"/>
+            </Button.Background>
+        </Button>
+        <Image Source="assets/login.png" Width="100" Height="100" VerticalAlignment="Top" Margin="20"/>
+        <Rectangle Width="280" Height="240" Fill="White" VerticalAlignment="Bottom" Margin="0,100">
+            <Rectangle.Effect>
+                <DropShadowEffect Color="#FFBBBBBB" Direction="0" BlurRadius="15" RenderingBias="Quality" ShadowDepth="1" />
+            </Rectangle.Effect>
+
+        </Rectangle>
+        <Grid Height="240" VerticalAlignment="Bottom" Margin="0,0,12,100" >
+            <TextBlock Text="LOGIN" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="136,6,129,0" Foreground="Gray" FontSize="18" FontFamily="Berlin Sans FB" />
+            <local:LoginCU HorizontalAlignment="Left" Margin="12,32,0,0" x:Name="loginCU1" VerticalAlignment="Top" Width="298" />
+        </Grid>
+    </Grid>
+</Window>

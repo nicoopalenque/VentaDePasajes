@@ -1,0 +1,90 @@
+﻿<Window x:Class="Vistas.vtnPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+        Title="Principal" Height="500" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Activated="Load">
+    <Grid x:Name="Principal">
+        <Rectangle Height="40" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush>
+                    <GradientStop Color="#FF2281D1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Grid>
+            <Rectangle Width="140" HorizontalAlignment="Left" >
+                <Rectangle.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF2281D1"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            
+            <Grid x:Name="grdAdmin" Visibility="Hidden">
+                <Button x:Name="btnExitADM" Width="30" Height="30" Margin="760,10,10,460" BorderBrush="#FF2281D1" Click="CerrarAdmin">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="assets/exit.png"/>
+                    </Button.OpacityMask>
+                    <Button.Background>
+                        <ImageBrush ImageSource="assets/exit.png"/>
+                    </Button.Background>
+                </Button>
+                
+                <Button x:Name="btnLogoutADM" Width="30" Height="30" Margin="10,460,760,10" BorderBrush="#FF2281D1" Click="LogoutADM">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="assets/logout.png"/>
+                    </Button.OpacityMask>
+                    <Button.Background>
+                        <ImageBrush ImageSource="assets/logout.png"/>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="btnUsuario" Height="50" Margin="0,70,678,380"  Content="Usuario" HorizontalAlignment="Right" Click="ClickUsuario" Style="{StaticResource ResourceKey=btnMenu}" />
+                <Image x:Name="imgUsuario" Source="assets/users_48.png" Width="20" Height="20" Margin="10,87,770,393"></Image>
+                <Button x:Name="btnAutoBus" Height="50" Margin="0,125,678,325" Background="#FF2281D1" Content="AutoBus" HorizontalAlignment="Right" Click="ClickAutoBus" Style="{StaticResource ResourceKey=btnMenu}" />
+                <Image x:Name="imgAutoBus" Source="assets/bus_48.png" Width="20" Height="20" Margin="10,142,770,338"></Image>
+                <Button x:Name="btnCiudad" Height="50" Margin="0,180,678,270" Background="#FF2281D1" Content="Ciudad" HorizontalAlignment="Right" Click="ClickCiudad" Style="{StaticResource ResourceKey=btnMenu}" />
+                <Image x:Name="imgCiudad" Source="assets/city_48.png" Width="25" Height="25" Margin="10,196,765,279"></Image>
+                <Button x:Name="btnTerminal" Height="50" Margin="0,230,678,220" Background="#FF2281D1" Content="Terminal" HorizontalAlignment="Right" Click="ClickTerminal" Style="{StaticResource ResourceKey=btnMenu}" />
+                <Image x:Name="imgTerminal" Source="assets/terminal_48.png" Width="25" Height="25" Margin="10,245,765,230"></Image>
+                <Button x:Name="btnEmpresa" Height="50" Margin="0,276,680,135" Content="Empresa" HorizontalAlignment="Right" Click="ClickEmpresa" Style="{StaticResource ResourceKey=btnMenu}"/>
+                <Image x:Name="imgEmpresa" Source="assets/business_48.png" Width="25" Margin="10,286,765,150"></Image>
+            </Grid>
+            
+            <Grid x:Name="grdOperador" Visibility="Hidden">
+                <Button x:Name="btnExitOP" Width="30" Height="30" Margin="760,10,10,460" BorderBrush="#FF2281D1" Click="CerrarOperador">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="assets/exit.png"/>
+                    </Button.OpacityMask>
+                    <Button.Background>
+                        <ImageBrush ImageSource="assets/exit.png"/>
+                    </Button.Background>
+                </Button>
+                
+                <Button x:Name="btnLogoutOP" Width="30" Height="30" Margin="10,460,760,10" BorderBrush="#FF2281D1" Click="LogoutOP">
+                    <Button.OpacityMask>
+                        <ImageBrush ImageSource="assets/logout.png"/>
+                    </Button.OpacityMask>
+                    <Button.Background>
+                        <ImageBrush ImageSource="assets/logout.png"/>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="btnCliente" Height="50" Margin="0,70,678,380"  Content="Cliente" HorizontalAlignment="Right" Click="ClickCliente" Style="{StaticResource ResourceKey=btnMenu}" />
+                <Image x:Name="imgUsuarioOP" Source="assets/clients_48.png" Width="20" Height="20" Margin="10,87,770,393"/>
+                <Button x:Name="btnViaje" Height="50" Margin="0,125,678,325" Content="Viaje" HorizontalAlignment="Right" Click="ClickViaje" Style="{StaticResource ResourceKey=btnMenu}" />
+                <Image x:Name="imgViaje" Source="assets/date_48.png" Width="20" Height="20" Margin="10,142,770,338"></Image>
+                <Button x:Name="btnPasaje" Height="50" Margin="0,180,678,270" Background="#FF2281D1" Content="Pasaje" HorizontalAlignment="Right" Click="ClickPasaje" Style="{StaticResource ResourceKey=btnMenu}" />
+                <Image x:Name="imgPasaje" Source="assets/ticket_48.png" Width="25" Height="25" Margin="10,196,765,279"></Image>
+            </Grid>
+        </Grid>
+        
+        <Grid>
+            <Image x:Name="Fondo" Source="assets/fondo.jpg" Margin="146,43,23,0" />
+        </Grid>
+    </Grid>
+</Window>

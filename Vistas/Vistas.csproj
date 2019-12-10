@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5CD54FA0-A1EE-4BE9-97E9-C07531467800}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vistas</RootNamespace>
+    <AssemblyName>Vistas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="LoginCU.xaml.cs">
+      <DependentUpon>LoginCU.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnAsientos.xaml.cs">
+      <DependentUpon>vtnAsientos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnAutobus.xaml.cs">
+      <DependentUpon>vtnAutobus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnCiudad.xaml.cs">
+      <DependentUpon>vtnCiudad.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnCliente.xaml.cs">
+      <DependentUpon>vtnCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnEmpresa.xaml.cs">
+      <DependentUpon>vtnEmpresa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnFiltroServicio.xaml.cs">
+      <DependentUpon>vtnFiltroServicio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnLogin.xaml.cs">
+      <DependentUpon>vtnLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="vtnPasaje.xaml.cs">
+      <DependentUpon>vtnPasaje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnPrincipal.xaml.cs">
+      <DependentUpon>vtnPrincipal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnTerminal.xaml.cs">
+      <DependentUpon>vtnTerminal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnTicket.xaml.cs">
+      <DependentUpon>vtnTicket.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnUsuarios.xaml.cs">
+      <DependentUpon>vtnUsuarios.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnViaje.xaml.cs">
+      <DependentUpon>vtnViaje.xaml</DependentUpon>
+    </Compile>
+    <Page Include="LoginCU.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MisEstilos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MisPlantillas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnAsientos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnAutobus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnCiudad.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnEmpresa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnFiltroServicio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnPasaje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnPrincipal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnTerminal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnTicket.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnUsuarios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnViaje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\exit.png" />
+    <Resource Include="assets\login.png" />
+    <Resource Include="assets\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClasesBase\ClasesBase.csproj">
+      <Project>{8ee01659-6bf6-4aa0-8d1f-9a48611e4fc7}</Project>
+      <Name>ClasesBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\bus_48.png" />
+    <Resource Include="assets\clients_48.png" />
+    <Resource Include="assets\date_48.png" />
+    <Resource Include="assets\ticket_48.png" />
+    <Resource Include="assets\users_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\city_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\terminal_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\pass_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\pass_32.png" />
+    <Resource Include="assets\user_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\accept_32.png" />
+    <Resource Include="assets\cancel_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="TipoServicio.xml">
+      <SubType>Designer</SubType>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\userAdd_32.png" />
+    <Resource Include="assets\userEdit_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\save_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\error_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\userDelete_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\synchronize_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\update_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\search_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\first_32.png" />
+    <Resource Include="assets\last_32.png" />
+    <Resource Include="assets\next_32.png" />
+    <Resource Include="assets\previous_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\filter_32.png" />
+    <Resource Include="assets\userList_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\document_32.png" />
+    <Resource Include="assets\print_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\busSeat_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\Autobús.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\nextCircle_32.png" />
+    <Resource Include="assets\previousCircle_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\ticketDelete_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\delete_32.png" />
+    <Resource Include="assets\edit_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\add_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="assets\business_48.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
